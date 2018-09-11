@@ -1,3 +1,19 @@
 * {
 	text-align: center;
 }
+
+h1 {
+	color: #aa1212;
+	font-family: "Geeza Pro";
+}
+
+body {
+	background-image: url("http://www.techanger.com/wp-content/uploads/2013/05/mutiple-application-cover.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img, iframe {
+	border: 10px gray solid;
+	border-radius: 10px;
+}
