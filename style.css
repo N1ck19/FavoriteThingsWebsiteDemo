@@ -30,3 +30,31 @@ h2 {
 	font-family: "Arial";
 	color: #eeeeee;
 }
+
+img {
+	margin-right: 10px;
+}
+
+iframe {
+	margin-left: 10px;
+}
+
+#link-list li {
+	display: inline-block;
+	margin: 0px 200px;
+	color: #ffffff;
+	font-family: Arial;
+}
+
+#link-list li a {
+	text-decoration: none;
+}
+
+#link-list li a:visited {
+	color: #ffffff;
+}
+
+#link-list li a:hover {
+	font-weight: bold;
+	color: #dddddd;
+}
