@@ -63,3 +63,10 @@ a:hover {
 	height: 210px;
 	text-align: center;
 }
+
+#more {
+	color: white;
+	text-align: center;
+	font-family: Arial;
+	font-size: 30px;
+}
